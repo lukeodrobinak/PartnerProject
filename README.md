@@ -16,4 +16,6 @@ Q5:
 Q6:
   Still behind the remote master
 Q7:
+  The branch did not delete locally on person B's repo. Removed it with _git branch -d branchy_
+Q8:
   
