@@ -18,7 +18,7 @@ Q6:
 Q7:
   The branch did not delete locally on person B's repo. Removed it with _git branch -d branchy_
 Q8:  
-`
+```
 *   commit 1d505abc2fbda4e16b6ba1acb17583d7e2e258f7 (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: 7b41843 ef5c597
 | | Author: lukeodrobinak <98421230+lukeodrobinak@users.noreply.github.com>
@@ -42,4 +42,4 @@ Q8:
 | | | 
 | | |     to make a pull
 *
-`
+```
